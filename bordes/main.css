@@ -1,0 +1,37 @@
+
+.borde-red{
+    height: 40px;
+    width: 150px;
+box-shadow: 1px 1px 4px rgba(0,0,0,0.2);
+border-left: 2px solid red ;
+}
+.borde-red:hover{
+    transform: scale(1.10,1.10);
+    transition: 0.3s;
+}
+.borde-green{
+    height: 40px;
+    width: 150px;
+box-shadow: 1px 1px 4px rgba(0,0,0,0.2);
+border-left: 2px solid green ;
+transition: 0.3s;
+}
+.borde-green:hover{
+    box-shadow: 2px 2px 3px;
+  
+}
+.borde-blue{
+    height: 40px;
+    width: 150px;
+box-shadow: 1px 1px 4px rgba(0,0,0,0.2);
+border-left: 2px solid rgb(72, 72, 212) ;
+transition: 0.3s;
+}
+.borde-blue:hover{
+    background: rgb(72, 72, 212);
+    opacity: 0.9;
+}
+div p{
+    margin-left: 5px;
+    text-align: center;
+}
