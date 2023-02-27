@@ -1,0 +1,14 @@
+body {
+background-color: rgb(186, 252, 252);
+border-style: solid;
+}
+.texto{
+    border-style: solid;
+    margin: 8px;
+    padding: 12px;
+}
+.buton{
+background-color: black;
+color: aliceblue;
+margin: 8px;
+}
